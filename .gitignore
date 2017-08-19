@@ -20,3 +20,26 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+netty-lecture.iml
+.gradle/4.1/fileChanges/last-build.bin
+.gradle/4.1/fileContent/annotation-processors.bin
+.gradle/4.1/fileContent/fileContent.lock
+.gradle/4.1/fileHashes/fileHashes.bin
+.gradle/4.1/fileHashes/fileHashes.lock
+.gradle/4.1/fileHashes/resourceHashesCache.bin
+.gradle/4.1/taskHistory/fileSnapshots.bin
+.gradle/4.1/taskHistory/taskHistory.bin
+.gradle/4.1/taskHistory/taskHistory.lock
+.gradle/buildOutputCleanup/built.bin
+.gradle/buildOutputCleanup/cache.properties
+.gradle/buildOutputCleanup/cache.properties.lock
+.idea/compiler.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/workspace.xml
+.idea/libraries/Gradle__io_netty_netty_all_4_1_14_Final.xml
+.idea/modules/netty-lecture_main.iml
+.idea/modules/netty-lecture_test.iml
+build/tmp/jar/MANIFEST.MF
