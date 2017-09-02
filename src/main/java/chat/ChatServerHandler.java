@@ -30,7 +30,8 @@ public class ChatServerHandler extends SimpleChannelInboundHandler<String> {
 
     @Override
     public void handlerRemoved(ChannelHandlerContext ctx) throws Exception {
-        channels.remove(ctx.channel());//netty自动调用
+//        channels.remove(ctx.channel());//netty自动调用
+        System.out.println(channels.size());//打印连接的channel个数
     }
 
     @Override
