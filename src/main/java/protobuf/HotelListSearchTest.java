@@ -1,4 +1,4 @@
-package com.mattie.pb;
+package protobuf;
 
 import com.google.protobuf.InvalidProtocolBufferException;
 

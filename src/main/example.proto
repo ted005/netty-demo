@@ -3,7 +3,7 @@ syntax = "proto2";
 package com.mattie.pb;
 
 option optimize_for = SPEED;
-option java_package = "com.mattie.pb";
+option java_package = "protobuf";
 option java_outer_classname = "HotelListSearchProtos";
 
 message FilterItem {
