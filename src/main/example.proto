@@ -1,0 +1,24 @@
+syntax = "proto2";
+
+package com.mattie.pb;
+
+option optimize_for = SPEED;
+option java_package = "com.mattie.pb";
+option java_outer_classname = "HotelListSearchProtos";
+
+message FilterItem {
+    optional int32 filterId = 1;
+    optional string title = 2;
+    optional string value = 3;
+}
+
+message HotelListSearchRequest {
+    optional int32 cityId = 1;
+    optional int32 hotelDateType = 2;
+    repeated FilterItem filters = 3;
+}
+
+message HotelListSearchResonse {
+    optional int32 resultCode = 1;
+    optional string resultMessage = 2;
+}

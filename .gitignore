@@ -43,3 +43,6 @@ netty-lecture.iml
 .idea/modules/netty-lecture_main.iml
 .idea/modules/netty-lecture_test.iml
 build/tmp/jar/MANIFEST.MF
+.idea/libraries/Gradle__com_google_guava_guava_19_0.xml
+.idea/libraries/Gradle__com_google_protobuf_protobuf_java_3_4_0.xml
+.idea/libraries/Gradle__com_google_protobuf_protobuf_java_util_3_4_0.xml
